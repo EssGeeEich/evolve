@@ -1,3 +1,0 @@
-[submodule "lua/includes/ev_vON"]
-	path = lua/includes/ev_von
-	url = https://github.com/vercas/vON.git
